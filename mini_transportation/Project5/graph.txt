@@ -1,0 +1,5 @@
+madinty: asher 15 cairo 60 
+shrouk: asher 30 
+asher: cairo 60 shrouk 30 madinty 15 sinai 400 
+cairo: asher 60 madinty 60 
+sinai: asher 400 
